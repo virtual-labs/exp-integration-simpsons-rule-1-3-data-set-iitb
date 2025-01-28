@@ -1,0 +1,1 @@
+## Integration: Simpson's Rule (1/3), with data set

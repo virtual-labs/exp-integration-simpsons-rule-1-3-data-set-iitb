@@ -1,0 +1,25 @@
+
+[
+    {
+        "question": "Given data X = 5, 6, 7, 8, 9, 10 and 11 and respective values of Y for all X values are -2.369, 2.236, 9.094, 15.767, 21.120, 25.885 and 30.851. Find the value of Integration of Y with Simpson's (1/3) Rule.",
+        "qid": 1,
+        "option_a": "88.845",
+        "option_b": "88.156",
+        "option_c": "87.364",
+        "option_d": "82.045",
+        "correct_option": "b"
+    },
+    {
+        "question": "Given data X = 7, 8, 9, 10, 11, 12 and 13 respective values of Y for all X values are 9.094, 15.767, 21.120, 25.885, 30.851, 34.078, 29.457. Find the value of Integration of Y with Simpson's (1/3) Rule.",
+        "qid": 2,
+        "option_a": "147.353",
+        "option_b": "148.203",
+        "option_c": "140.234",
+        "option_d": "148.473",
+        "correct_option": "d"
+    }
+   
+]
+
+
+
